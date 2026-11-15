@@ -26,4 +26,4 @@ Screens → TenantViewModel (LiveData) → TenantRepository → Room
 | 3 Room | Mark Kipruto | 169386 | ([link](https://github.com/SakethKenchem/Grp6_TenantManagementSystem_Lab8/pull/3)) |
 | 4 Screens | Lewis Kamunjeru | 155669 | ([link](https://github.com/SakethKenchem/Grp6_TenantManagementSystem_Lab8/pull/2)) |
 | 5 Data integration | Kumaylali Viqarhussein Murji | 193642 | ([link](https://github.com/SakethKenchem/Grp6_TenantManagementSystem_Lab8/pull/4)) |
-| 6 Release | Saketh Kenchem | 152324 | (link) |
+| 6 Release | Saketh Kenchem | 152324 | ([link](https://github.com/SakethKenchem/Grp6_TenantManagementSystem_Lab8/pull/5)) |
